@@ -1,0 +1,15 @@
+Summary
+Bug ID
+Area Path
+Build Number
+Severity
+Priority
+Status
+Reported By
+Reported On
+Assigned to
+Environment
+Steps to Reproduce
+Result
+Expected Result
+Attachment
